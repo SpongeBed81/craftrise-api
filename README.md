@@ -6,7 +6,9 @@ craftrise-api Craftrise Minecraft Sunucusunun Sitesinden Veri Çekmek İçin Yap
 
 
 **Neler yapılabilir?**
+
 • Belirtilen Oyuncunun Hesap Bilgileri Ve Durumu Alınabilir.
+
 • Belirtilen Oyuncunun Belirtilen Oyundaki İstatistikleri Alınabilir.
 
 **Örnekler**
